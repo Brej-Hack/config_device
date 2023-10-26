@@ -1,4 +1,4 @@
-# configuration_netmiko
+#configuration_netmiko
 from netmiko import ConnectHandler
 
 # Définir les détails de connexion à l'équipement réseau
